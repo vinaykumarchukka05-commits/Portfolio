@@ -61,25 +61,6 @@ a {
     transition: color 0.2s ease-in-out;
 }
 
-body {
-    font-family: "Latin Modern Roman", serif;
-    font-size: 18px;
-    line-height: 1.65;
-}
-
-h1, h2, h3 {
-    font-family: "Latin Modern Roman", serif;
-    font-weight: 700;
-}
-
-p {
-    text-align: justify;
-}
-
-em {
-    font-style: italic;
-}
-
 a:hover {
     color: var(--primary-dark);
     text-decoration: none;
