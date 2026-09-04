@@ -85,7 +85,7 @@ a:hover {
 }
 
 .navbar-brand {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     font-weight: bold;
     color: var(--dark-color);
 }
@@ -103,7 +103,7 @@ a:hover {
 
 .nav-links li {
     margin-left: 1.5rem;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
 }
 
 .nav-links a {
