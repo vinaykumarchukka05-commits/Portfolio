@@ -85,7 +85,7 @@ a:hover {
 }
 
 .navbar-brand {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     font-weight: bold;
     color: var(--dark-color);
 }
@@ -165,7 +165,7 @@ a:hover {
 .hero h1 {
     position: relative;
     z-index: 2;
-    font-size: 2.5rem;
+    font-size: 2rem;
     margin-bottom: 0.5rem;
     color: var(--light-color); /* Explicitly set to white */
 }
