@@ -85,7 +85,7 @@ a:hover {
 }
 
 .navbar-brand {
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: bold;
     color: var(--dark-color);
 }
@@ -165,7 +165,7 @@ a:hover {
 .hero h1 {
     position: relative;
     z-index: 2;
-    font-size: 3rem;
+    font-size: 2.5rem;
     margin-bottom: 0.5rem;
     color: var(--light-color); /* Explicitly set to white */
 }
@@ -173,7 +173,7 @@ a:hover {
 .hero .subtitle {
     position: relative;
     z-index: 2;
-    font-size: 1.75rem;
+    font-size: 1.25rem;
     color: rgba(255, 255, 255, 0.9); /* Slightly transparent white */
     font-weight: 300;
 }
@@ -213,7 +213,7 @@ a:hover {
 }
 
 .project-card h3 {
-    font-size: 1.75rem;
+    font-size: 1.25rem;
     color: var(--primary-dark);
     margin-bottom: 0.5rem;
 }
@@ -243,7 +243,7 @@ a:hover {
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
-    font-size: 1.25rem;
+    font-size: 1.1rem;
     transition: transform 0.2s ease-out, box-shadow 0.2s ease-out, background-color 0.2s ease-out;
 }
 
@@ -259,7 +259,7 @@ a:hover {
 .contact-links {
     list-style: none;
     padding-left: 0;
-    font-size: 1.25rem;
+    font-size: 1.1rem;
 }
 
 .contact-links li {
@@ -272,7 +272,7 @@ a:hover {
     padding: 2rem 0;
     margin-top: 2rem;
     color: #888;
-    font-size: 1rem;
+    font-size: 0.9rem;
 }
 
 /* --- ANIMATION CSS --- */
